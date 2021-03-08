@@ -685,8 +685,9 @@ img {
 }
 
 .team_section {
-    max-width: 2000px;
+    max-width: 993px;
     margin: 0 auto;
+	display: block;
 }
 
 .team_area {
