@@ -692,6 +692,7 @@ img {
 .team_area {
     width: 30.66%;
     margin-right: 3.82979%;
+	margin-bottom: 50px;
     height: 490px;
     overflow: hidden;
     text-align: center;
@@ -712,7 +713,7 @@ img {
     height: auto;
     position: relative;
     border-radius: 50%;
-    margin: 40px 7px 25px 7px;
+    margin: 7px 7px 25px 7px;
 }
 
 .team_box_shadow {
