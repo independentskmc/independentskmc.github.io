@@ -697,6 +697,7 @@ img {
     overflow: hidden;
     text-align: center;
     float: left;
+	display: block;
 }
 
 .team_area span {
@@ -714,6 +715,7 @@ img {
     position: relative;
     border-radius: 50%;
     margin: 7px 7px 25px 7px;
+	display: block;
 }
 
 .team_box_shadow {
