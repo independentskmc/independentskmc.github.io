@@ -1676,6 +1676,10 @@ padding-top: 10px;
 .top_left_cont {
 padding: 38px 0;
 }
+.team_area {
+    position: relative;
+    height: 520px;
+}
 .top_left_cont h2 {
 font-size: 25px;
 color: #FFF;
